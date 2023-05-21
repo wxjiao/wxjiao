@@ -1,5 +1,5 @@
 - Hi, this is Wenxiang Jiao.
-- I’m working on machine translation, multilingual NLP, and pretraining. 
+- I’m working on machine translation, multilingual pretraining, and large language models. 
 - Reach me if you are interested.
 - 📫: wenxiangjiaonju@gmail.com 
 
